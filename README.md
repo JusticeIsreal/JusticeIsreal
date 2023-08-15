@@ -37,6 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justiceisreal&show_icons=true&locale=en&layout=compact" alt="justiceisreal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justiceisreal&show_icons=true&locale=en" alt="justiceisreal" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justiceisreal&" alt="justiceisreal" /></p>
