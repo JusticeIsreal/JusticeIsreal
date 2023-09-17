@@ -3,33 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justiceisreal&label=Profile%20views&color=0e75b6&style=flat" alt="justiceisreal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justiceisreal" alt="justiceisreal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tech_bro" target="blank"><img src="https://img.shields.io/twitter/follow/tech_bro?logo=twitter&style=for-the-badge" alt="tech_bro" /></a> </p>
-
-- 🔭 I’m currently working on [AJIS TECHNOLOGY](Null)
-
-- 🌱 I’m currently learning **Nest js**
-
-- 👯 I’m looking to collaborate on **Tech related solutions**
-
-- 👨‍💻 All of my projects are available at [https://github.com/JusticeIsreal?tab=repositories](https://github.com/JusticeIsreal?tab=repositories)
-
-- 📝 I regularly write articles on [www.linkedin.com/in/justice-isreal-agbonma-314bbb188](www.linkedin.com/in/justice-isreal-agbonma-314bbb188)
-
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **justiceagbonma.com**
-
-- 📄 Know about my experiences [justiceagbonma.com](justiceagbonma.com)
-
-- ⚡ Fun fact **If I can conceive it, I can achieve it**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tech_bro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tech_bro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/justice isreal agbonma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justice isreal agbonma" height="30" width="40" /></a>
-<a href="https://instagram.com/your_tech_bro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_bro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
