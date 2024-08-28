@@ -17,4 +17,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=justiceisreal&theme=dark" width="48%" >
 
 ## Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JC-Coder&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princewhyte2&layout=compact)
