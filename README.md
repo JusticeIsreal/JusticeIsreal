@@ -13,7 +13,7 @@
 
 
 ## My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=justiceisreal&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JC-Coder&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JC-Coder&theme=dark" width="48%" >
 
 ## Top Languages
